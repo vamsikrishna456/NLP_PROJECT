@@ -778,13 +778,11 @@ See the `LICENSE` file for more information.
 
 # 👨‍💻 Author
 
-**Your Name**
+P.VAMSI KRISHNA
 
-CSE – Artificial Intelligence & Machine Learning
+CSE – Artificial Intelligence & Machine Learning.
 
-GitHub: `https://github.com/YOUR_USERNAME`
 
----
 
 # ⭐ Acknowledgements
 
