@@ -1,0 +1,50 @@
+# ============================================
+# NLP Sentiment Analysis Chatbot - Dependencies
+# ============================================
+
+# --- Core NLP Libraries ---
+nltk==3.9.1
+spacy==3.7.6
+textblob==0.18.0
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+imbalanced-learn==0.12.4
+
+# --- Deep Learning ---
+torch==2.4.1
+torchvision==0.19.1
+
+# --- Transformers (Hugging Face) ---
+transformers==4.44.2
+datasets==3.0.1
+accelerate==0.34.2
+
+# --- Word Embeddings ---
+gensim==4.3.3
+
+# --- Data Processing ---
+numpy==1.26.4
+pandas==2.2.3
+
+# --- Visualization ---
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.3
+
+# --- API Framework ---
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+websockets==13.0.1
+
+# --- Emoji & Text Processing ---
+emoji==2.12.1
+contractions==0.1.73
+langdetect==1.0.9
+
+# --- Utilities ---
+joblib==1.4.2
+tqdm==4.66.5
+pydantic==2.9.2
+python-dotenv==1.0.1

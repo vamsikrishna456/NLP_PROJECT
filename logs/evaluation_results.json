@@ -1,0 +1,158 @@
+{
+  "TF-IDF + logistic_regression": {
+    "model_name": "TF-IDF + logistic_regression",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        200,
+        0,
+        0
+      ],
+      [
+        0,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        200
+      ]
+    ],
+    "auc_roc": 1.0,
+    "classification_report": "{'negative': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'neutral': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'positive': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}}"
+  },
+  "TF-IDF + naive_bayes": {
+    "model_name": "TF-IDF + naive_bayes",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        200,
+        0,
+        0
+      ],
+      [
+        0,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        200
+      ]
+    ],
+    "auc_roc": 1.0,
+    "classification_report": "{'negative': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'neutral': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'positive': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}}"
+  },
+  "TF-IDF + svm": {
+    "model_name": "TF-IDF + svm",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        200,
+        0,
+        0
+      ],
+      [
+        0,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        200
+      ]
+    ],
+    "auc_roc": 1.0,
+    "classification_report": "{'negative': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'neutral': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'positive': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}}"
+  },
+  "BoW + LogisticRegression": {
+    "model_name": "BoW + LogisticRegression",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        200,
+        0,
+        0
+      ],
+      [
+        0,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        200
+      ]
+    ],
+    "auc_roc": 1.0,
+    "classification_report": "{'negative': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'neutral': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'positive': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}}"
+  },
+  "BiLSTM": {
+    "model_name": "BiLSTM",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        200,
+        0,
+        0
+      ],
+      [
+        0,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        200
+      ]
+    ],
+    "auc_roc": 1.0,
+    "classification_report": "{'negative': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'neutral': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'positive': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}}"
+  },
+  "BiGRU": {
+    "model_name": "BiGRU",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "confusion_matrix": [
+      [
+        200,
+        0,
+        0
+      ],
+      [
+        0,
+        200,
+        0
+      ],
+      [
+        0,
+        0,
+        200
+      ]
+    ],
+    "auc_roc": 1.0,
+    "classification_report": "{'negative': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'neutral': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'positive': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 200.0}, 'accuracy': 1.0, 'macro avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}, 'weighted avg': {'precision': 1.0, 'recall': 1.0, 'f1-score': 1.0, 'support': 600.0}}"
+  }
+}
